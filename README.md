@@ -10,3 +10,12 @@ Firebase storage to enable users to upload thier photos
 4-`firebase-ui-auth` provide user UI to login like **Facebook , Gmail , Email**<br/>
 5-`glide` used to download image from firebase and bind it to image view <br/>
 
+
+## screenshots
+<p float="left">
+<img src="https://github.com/ShamsEldeenAnd/images/blob/master/chatimgs/app.png" width="250" height="420" />
+<img src="https://github.com/ShamsEldeenAnd/images/blob/master/chatimgs/Screenshot_20181217-132443.jpg" width="250" height="420" />
+  <img src="https://github.com/ShamsEldeenAnd/images/blob/master/chatimgs/Screenshot_20181217-132538.jpg" width="250" height="420" />
+</p>
+
+
